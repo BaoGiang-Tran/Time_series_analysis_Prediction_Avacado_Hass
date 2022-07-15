@@ -6,7 +6,7 @@ seaborn
 scikit-learn
 prophet
 PIL
-mpl_toolkits.axes_grid1
+mpl_toolkits
 base64
 asyncio
 math
