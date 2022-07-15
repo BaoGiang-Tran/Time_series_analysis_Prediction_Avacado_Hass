@@ -5,11 +5,7 @@ matplotlib
 seaborn
 scikit-learn
 prophet
-PIL
-mpl_toolkits
 base64
 asyncio
-math
 plotly
 pmdarima
-click
