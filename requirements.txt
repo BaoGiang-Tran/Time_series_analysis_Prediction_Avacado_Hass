@@ -1,0 +1,15 @@
+streamlit
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+prophet
+PIL
+mpl_toolkits.axes_grid1
+base64
+asyncio
+math
+plotly
+pmdarima
+click
